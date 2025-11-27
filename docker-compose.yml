@@ -6,13 +6,28 @@ services:
     container_name: api-seguidores
     ports:
       - "5001:5000"
+    env_file:
+      - .env
     environment:
-      - ASPNETCORE_URLS=http://0.0.0.0:5000
-      - DB_HOST=${DB_HOST}
-      - DB_PORT=${DB_PORT}
-      - DB_NAME=${DB_NAME}
-      - DB_USER=${DB_USER}
-      - DB_PASSWORD=${DB_PASSWORD}
+      ASPNETCORE_URLS: http://0.0.0.0:5000
     restart: always
-
-  
+    
+    
+#version: '3.8'
+#
+#services:
+#  api:
+#    build: .
+#    container_name: api-seguidores
+#    ports:
+#      - "5001:5000"
+#    environment:
+#      - ASPNETCORE_URLS=http://0.0.0.0:5000
+#      - DB_HOST=${DB_HOST}
+#      - DB_PORT=${DB_PORT}
+#      - DB_NAME=${DB_NAME}
+#      - DB_USER=${DB_USER}
+#      - DB_PASSWORD=${DB_PASSWORD}
+#    restart: always
+#
+#  

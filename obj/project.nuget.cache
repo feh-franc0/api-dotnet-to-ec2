@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "T7B6Gu9fh6o=",
+  "dgSpecHash": "IRvc3ibRX68=",
   "success": true,
-  "projectFilePath": "/Users/fernandofranco/Developer/ApiSeguidores/ApiSeguidores.csproj",
+  "projectFilePath": "/Users/fernandofranco/Developer/api-dotnet-to-ec2/ApiSeguidores.csproj",
   "expectedPackageFiles": [
     "/Users/fernandofranco/.nuget/packages/microsoft.aspnetcore.openapi/8.0.17/microsoft.aspnetcore.openapi.8.0.17.nupkg.sha512",
     "/Users/fernandofranco/.nuget/packages/microsoft.entityframeworkcore/9.0.0/microsoft.entityframeworkcore.9.0.0.nupkg.sha512",

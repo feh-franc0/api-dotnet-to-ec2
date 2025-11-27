@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("ApiSeguidores")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+4b6bc9febcdfeb787fe0a3b2ec143ae2248791aa")]
 [assembly: System.Reflection.AssemblyProductAttribute("ApiSeguidores")]
 [assembly: System.Reflection.AssemblyTitleAttribute("ApiSeguidores")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

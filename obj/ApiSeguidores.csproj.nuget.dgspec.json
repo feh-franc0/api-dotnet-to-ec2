@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/Users/fernandofranco/Developer/ApiSeguidores/ApiSeguidores.csproj": {}
+    "/Users/fernandofranco/Developer/api-dotnet-to-ec2/ApiSeguidores.csproj": {}
   },
   "projects": {
-    "/Users/fernandofranco/Developer/ApiSeguidores/ApiSeguidores.csproj": {
+    "/Users/fernandofranco/Developer/api-dotnet-to-ec2/ApiSeguidores.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/fernandofranco/Developer/ApiSeguidores/ApiSeguidores.csproj",
+        "projectUniqueName": "/Users/fernandofranco/Developer/api-dotnet-to-ec2/ApiSeguidores.csproj",
         "projectName": "ApiSeguidores",
-        "projectPath": "/Users/fernandofranco/Developer/ApiSeguidores/ApiSeguidores.csproj",
+        "projectPath": "/Users/fernandofranco/Developer/api-dotnet-to-ec2/ApiSeguidores.csproj",
         "packagesPath": "/Users/fernandofranco/.nuget/packages/",
-        "outputPath": "/Users/fernandofranco/Developer/ApiSeguidores/obj/",
+        "outputPath": "/Users/fernandofranco/Developer/api-dotnet-to-ec2/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/Users/fernandofranco/.nuget/NuGet/NuGet.Config"
